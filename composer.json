@@ -1,12 +1,12 @@
 {
   "name": "xmugenx/flarum-ext-title-limit-off",
-  "description": "Disable title limit verification.",
+  "description": "Disable title limit validation.",
   "type": "flarum-extension",
   "keywords": ["flarum", "title"],
   "license": "MIT",
   "authors": [
     {
-      "name": "xmugenx",
+      "name": "xmugenx"
     }
   ],
   "support": {
@@ -18,7 +18,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "Title verification off",
+      "title": "Title validation off",
       "icon": {
         "name": "far fa-envelope",
         "backgroundColor": "#83AF9B",
