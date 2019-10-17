@@ -10,8 +10,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/xmugenx/flarum-ext-title-limit-off/issues",
-    "source": "https://github.com/xmugenx/flarum-ext-title-limit-off"
+    "issues": "https://github.com/xmugenx/flarum-ext-title-off/issues",
+    "source": "https://github.com/xmugenx/flarum-ext-title-off"
   },
   "require": {
     "flarum/core": "^0.1.0"
