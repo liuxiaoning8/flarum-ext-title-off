@@ -1,0 +1,29 @@
+{
+  "name": "xmugenx/flarum-ext-title-limit-off",
+  "description": "Disable title limit verification.",
+  "type": "flarum-extension",
+  "keywords": ["flarum", "title"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xmugenx",
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/xmugenx/flarum-ext-title-limit-off/issues",
+    "source": "https://github.com/xmugenx/flarum-ext-title-limit-off"
+  },
+  "require": {
+    "flarum/core": "^0.1.0"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Title verification off",
+      "icon": {
+        "name": "far fa-envelope",
+        "backgroundColor": "#83AF9B",
+        "color": "#fff"
+      }
+    }
+  }
+}
